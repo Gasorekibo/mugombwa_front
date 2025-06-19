@@ -1,2 +1,2 @@
-const baseURL = 'http://localhost:5000/api';
+const baseURL = 'https://mugombwa-back.onrender.com/api';
 export default baseURL;
